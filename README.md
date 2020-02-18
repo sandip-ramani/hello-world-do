@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Sample project for DevOps | Jenkins | Maven | Git | Docker
